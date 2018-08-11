@@ -1,0 +1,62 @@
+h1{
+	color: red;
+	font-size: 50px;
+}
+.par1{
+	background-color: green;
+	color: red;
+} 
+.par2{
+	background-color: green;
+	color: white;
+}
+li{
+	background-color: gray;
+	color: white;
+}
+.par7{
+	color: red;
+	font-size: 35px;
+}
+.par3{
+	background-color: red;
+	color: black;
+	
+}
+.par4{
+	background-color: green;
+	color: black;
+} 
+.par5{
+	background-color: black;
+	color: white;
+}
+.par6{
+	color: black;
+}
+.par8{
+	color: white;
+	background-color: blue;
+}
+table{
+
+	font-size:16px;	
+	padding: 20px;
+}
+.col{
+	background-color: #9BE8AB;
+	color: green;
+}
+.par9{
+	background-color: black;
+	color: white;
+}
+.par10{
+	background-color: black;
+	color: blue;
+    font-size: 35px;
+}
+.par11{
+	background-color: green;
+	color: white;
+}
